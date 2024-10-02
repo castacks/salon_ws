@@ -1,6 +1,6 @@
 [submodule "src/physics_atv_visual_mapping"]
 	path = src/physics_atv_visual_mapping
 	url = https://github.com/castacks/physics_atv_visual_mapping.git
-[submodule "src/adaptive_maps"]
-	path = src/adaptive_maps
+[submodule "src/context_adaptation"]
+	path = src/context_adaptation
 	url = https://github.com/castacks/context_adaptation.git
